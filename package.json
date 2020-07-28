@@ -1,7 +1,7 @@
 {
   "name": "javascriptframework",
   "private": true,
-  "description": "javascriptframework, a list of JavaScript Framework providers for Jamstack sites.",
+  "description": "javascriptframework, a list of JavaScript frameworks for Jamstack sites.",
   "version": "1.0.0",
   "author": "@cosmicjs",
   "bugs": {

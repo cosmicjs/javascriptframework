@@ -4,8 +4,8 @@ const tailwindConfig = require("./tailwind.config.js")
 module.exports = {
   siteMetadata: {
     siteName: `JavaScript Framework`,
-    title: `JavaScript Framework | Top JavaScript Framework`,
-    description: `JavaScript Framework is a leaderboard of the top JavaScript Framework providers. Promoting a static approach to building websites.`,
+    title: `JavaScript Framework | Top JavaScript Frameworks`,
+    description: `JavaScript Framework is a leaderboard of the top JavaScript frameworks. A place to help you find the right JavaScript framework for your app.`,
     siteUrl: `https://www.javascriptframework.org/`,
   },
   plugins: [
