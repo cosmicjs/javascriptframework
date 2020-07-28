@@ -1,11 +1,11 @@
 {
-  "name": "staticwebsitehosting",
+  "name": "javascriptframework",
   "private": true,
-  "description": "staticwebsitehosting, a list of JavaScript Framework providers for Jamstack sites.",
+  "description": "javascriptframework, a list of JavaScript Framework providers for Jamstack sites.",
   "version": "1.0.0",
   "author": "@cosmicjs",
   "bugs": {
-    "url": "https://github.com/cosmicjs/staticwebsitehosting/issues"
+    "url": "https://github.com/cosmicjs/javascriptframework/issues"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.29",
@@ -44,7 +44,7 @@
     "prettier": "2.0.5",
     "tailwindcss": "^1.4.6"
   },
-  "homepage": "https://github.com/cosmicjs/staticwebsitehosting#readme",
+  "homepage": "https://github.com/cosmicjs/javascriptframework#readme",
   "keywords": [
     "JavaScript Framework",
     "gatsby",
@@ -54,7 +54,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cosmicjs/staticwebsitehosting"
+    "url": "https://github.com/cosmicjs/javascriptframework"
   },
   "scripts": {
     "build": "gatsby build",

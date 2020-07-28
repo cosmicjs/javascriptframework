@@ -20,7 +20,7 @@ const Layout = ({ title, children }) => {
           <ShareButtons className="mt-12 inline-flex" />
         </div>
         <GitHubCorner
-          href="https://github.com/cosmicjs/staticwebsitehosting"
+          href="https://github.com/cosmicjs/javascriptframework"
           bannerColor="#2D3748"
           size="100"
           svgStyle={{ zIndex: 300 }}

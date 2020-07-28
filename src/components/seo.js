@@ -55,7 +55,7 @@ const SEO = ({ description, lang, meta, title }) => {
         },
         {
           property: `og:image`,
-          content: `https://cdn.cosmicjs.com/199f4880-c7a2-11ea-b44f-f5c7da208e23-staticwebsitehosting.png`,
+          content: `https://cdn.cosmicjs.com/199f4880-c7a2-11ea-b44f-f5c7da208e23-javascriptframework.png`,
         },
         {
           name: `twitter:card`,

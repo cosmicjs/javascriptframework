@@ -1,8 +1,8 @@
-# staticwebsitehosting
+# javascriptframework
 
-[staticwebsitehosting.org](http://staticwebsitehosting.org), a leaderboard of top JavaScript Framework providers for Jamstack sites.
+[javascriptframework.org](http://javascriptframework.org), a leaderboard of top JavaScript Framework providers for Jamstack sites.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/388637c1-8040-4b2d-84b4-1cfa38cd62bb/deploy-status)](https://app.netlify.com/sites/staticwebsitehosting/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/388637c1-8040-4b2d-84b4-1cfa38cd62bb/deploy-status)](https://app.netlify.com/sites/javascriptframework/deploys)
 
 ## Contributing
 
@@ -40,9 +40,9 @@ npm run build
 
 ## Cosmic
 
-staticwebsitehosting.org is built and maintained by [Cosmic](https://www.cosmicjs.com), a headless CMS to manage content for static websites and apps.
+javascriptframework.org is built and maintained by [Cosmic](https://www.cosmicjs.com), a headless CMS to manage content for static websites and apps.
 
 ## License
 
-staticwebsitehosting.org is released under the [MIT License](LICENSE).
+javascriptframework.org is released under the [MIT License](LICENSE).
 Please make sure you understand its [implications and guarantees](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html).

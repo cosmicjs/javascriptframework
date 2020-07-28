@@ -15,7 +15,7 @@ const buttonConfigs = {
 }
 
 const ShareButton = ({ className }) => {
-  const shareUrl = "https://www.staticwebsitehosting.org"
+  const shareUrl = "https://www.javascriptframework.org"
   const shareText = "Check out JavaScript Framework, a leaderboard of JavaScript Framework providers."
 
   return (

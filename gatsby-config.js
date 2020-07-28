@@ -6,7 +6,7 @@ module.exports = {
     siteName: `JavaScript Framework`,
     title: `JavaScript Framework | Top JavaScript Framework`,
     description: `JavaScript Framework is a leaderboard of the top JavaScript Framework providers. Promoting a static approach to building websites.`,
-    siteUrl: `https://www.staticwebsitehosting.org/`,
+    siteUrl: `https://www.javascriptframework.org/`,
   },
   plugins: [
     {
@@ -118,7 +118,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#2193b0`,
         display: `minimal-ui`,
-        icon: `content/assets/staticwebsitehosting-icon.png`,
+        icon: `content/assets/javascriptframework-icon.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
