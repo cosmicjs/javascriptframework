@@ -1,16 +1,16 @@
-# javascriptframework
+# JavaScript Framework
 
-[javascriptframework.org](http://javascriptframework.org), a leaderboard of top JavaScript frameworks for Jamstack sites.
+[javascriptframework.org](http://javascriptframework.org), a leaderboard of top JavaScript frameworks.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/388637c1-8040-4b2d-84b4-1cfa38cd62bb/deploy-status)](https://app.netlify.com/sites/javascriptframework/deploys)
 
 ## Contributing
 
-Missing a JavaScript Framework provider here? Just fork the repo and add the provider with an `index.md` file in the `content/sites/<name>/` folder.
+Missing a JavaScript Framework here? Just fork the repo and add the provider with an `index.md` file in the `content/sites/<name>/` folder.
 
 Make sure to follow the following rules:
 
-- **JavaScript Framework:** No server-side website hosting options. This means it needs to serve static content directly without involving PHP, Ruby, Node.js, Java, etc. The hosting provider must have the option to enable a CDN for optimized global static asset distribution which is one of the benefits of the Jamstack approach.
+- **JavaScript Framework:** Can be a full framework or library utility.
 - **Stick to the format:** Fill out all the same fields as the other JavaScript frameworks in `content/sites`.
 - **Short description:** Keep all the details for the body text, keep the description for the overview page short and sweet.
 
@@ -40,7 +40,7 @@ npm run build
 
 ## Cosmic
 
-javascriptframework.org is built and maintained by [Cosmic](https://www.cosmicjs.com), a headless CMS to manage content for static websites and apps.
+javascriptframework.org is built and maintained by [Cosmic](https://www.cosmicjs.com), a headless CMS to manage content for JavaScript websites and apps.
 
 ## License
 
