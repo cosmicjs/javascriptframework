@@ -87,7 +87,7 @@ const Layout = ({ title, children }) => {
                 JavaScript CMS
               </a>
             </b>{" "}
-            for your static websites and apps.
+            for your JavaScript websites and apps.
           </p>
           <small className="font-thin text-sm">
             © Cosmic {new Date().getFullYear()}
