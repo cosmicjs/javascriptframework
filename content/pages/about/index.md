@@ -4,14 +4,12 @@ title: About JavaScript Framework
 
 ## About JavaScript Framework
 
-JavaScript Framework is a leaderboard of the top JavaScript frameworks. It's run by [Cosmic](https://www.cosmic.com), a headless CMS for static websites and apps, as a resource for those looking for options for the best static website hosts. The site itself is built with [Gatsby](https://www.gatsbyjs.org/), and is built and hosted on [Netlify](https://www.netlify.com/). You can check out the source on [GitHub](https://github.com/cosmicjs/javascriptframework) and contributions are [more than welcome](/contribute)!
+JavaScript Framework is a leaderboard of the top JavaScript frameworks. It's run by [Cosmic](https://www.cosmic.com), a headless CMS to power content for any website or app, as a resource for those looking for options for the best JavaScript framework. The site itself is built with [Gatsby](https://www.gatsbyjs.org/), and is built and hosted on [Netlify](https://www.netlify.com/). You can check out the source on [GitHub](https://github.com/cosmicjs/javascriptframework) and contributions are [more than welcome](/contribute)!
 
 ### JavaScript frameworks
 
-People sometimes ask if static sites make sense for anything beyond a one-pager. This leaderboard highlights the top JavaScript frameworks that make static websites not only viable, but an attractive option for creating sophisticated websites!
+This leaderboard highlights the top JavaScript frameworks that make JavaScript one of [the most popular programming languages](https://insights.stackoverflow.com/survey/2019#most-popular-technologies)!
 
-The typical CMS driven website works by building each page on-demand, fetching content from a database and running it through a template engine. This means each page is assembled from templates and content on each request to the server.
+By using a JavaScript framework, you can build on the work that someone else has done. Leveraging the open source community, many popular tools have been developed in the JavaScript community to help developers build applications.
 
-For most sites this is completely unnecessary overhead and only adds complexity, performance problems and security issues. After all, by far the most websites only change when the content authors or their design team makes changes.
-
-With a [Static Site Generator](https://staticgen.com) deployed to a specialized [JavaScript Framework](https://staticgen.com) provider you generate all the pages of the website once when there's actually changes to the site. This means there's no moving parts in the deployed website. Caching gets much easier, performance goes up and static sites are far more secure.
+Using a [Headless CMS](https://www.cosmicjs.com/headless-cms) to manage content in your JavaScript application deployed to a [Static Website Hosting](https://www.staticwebsitehosting.org/) provider, you have the option for a modern development stack that is powerful, performant, and secure.

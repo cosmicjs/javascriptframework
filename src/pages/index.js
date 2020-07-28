@@ -18,8 +18,6 @@ const BlogIndex = ({ data, location }) => {
       <section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 row-gap-16">
         {sites.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
-          const hasFreePlan = node.frontmatter.freeplan || false
-          const hasAutoDeployment = node.frontmatter.autodeployment || false
           const cosmicAppLink = node.frontmatter.cosmicapplink || false
           return (
               <article
@@ -33,18 +31,6 @@ const BlogIndex = ({ data, location }) => {
                           {title}
                       </h3>
                     </header>
-                    <div className="mt-3">
-                      {hasFreePlan && (
-                        <span className="inline-block bg-green-300 rounded-full px-3 py-1 text-xs font-medium text-white mr-2 mb-2">
-                          free plan
-                        </span>
-                      )}
-                      {hasAutoDeployment && (
-                        <span className="inline-block bg-blue-400 rounded-full px-3 py-1 text-xs font-medium text-white mr-2 mb-2">
-                          auto deployment
-                        </span>
-                      )}
-                    </div>
                     <section className="mt-4">
                       <p
                         dangerouslySetInnerHTML={{
@@ -98,8 +84,6 @@ export const pageQuery = graphql`
             title
             description
             cosmicapplink
-            freeplan
-            autodeployment
           }
           parent {
             ... on File {

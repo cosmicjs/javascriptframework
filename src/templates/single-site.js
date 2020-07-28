@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faHome, faDollarSign } from "@fortawesome/free-solid-svg-icons"
-import { faTwitter } from "@fortawesome/free-brands-svg-icons"
+import { faTwitter, faGithub } from "@fortawesome/free-brands-svg-icons"
 
 import CosmicIcon from "../cosmic-icon.svg"
 import Layout from "../components/layout"
@@ -13,7 +13,7 @@ const BlogPostTemplate = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
   const homePage = site.frontmatter.homepage
   const twitter = site.frontmatter.twitter
-  const pricingLink = site.frontmatter.pricing
+  const githubLink = site.frontmatter.github
   const cosmicAppLink = site.frontmatter.cosmicapplink
 
   return (
@@ -44,13 +44,13 @@ const BlogPostTemplate = ({ data, location }) => {
             <span className="text-black">Twitter</span>
           </a>
           <a
-            href={pricingLink}
+            href={githubLink}
             target="_blank"
             rel="noreferrer"
             className="shadow-none mr-4 hover:text-purple-800"
           >
-            <FontAwesomeIcon icon={faDollarSign} className="mr-1" />
-            <span className="text-black">Pricing</span>
+            <FontAwesomeIcon icon={faGithub} className="mr-1" />
+            <span className="text-black">GitHub</span>
           </a>
         </div>
         {cosmicAppLink && (
@@ -99,7 +99,7 @@ export const pageQuery = graphql`
         homepage
         twitter
         cosmicapplink
-        pricing
+        github
       }
     }
   }
