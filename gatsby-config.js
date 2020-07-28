@@ -3,9 +3,9 @@ const tailwindConfig = require("./tailwind.config.js")
 
 module.exports = {
   siteMetadata: {
-    siteName: `Static Website Hosting`,
-    title: `Static Website Hosting | Top Static Website Hosting`,
-    description: `Static Website Hosting is a leaderboard of the top static website hosting providers. Promoting a static approach to building websites.`,
+    siteName: `JavaScript Framework`,
+    title: `JavaScript Framework | Top JavaScript Framework`,
+    description: `JavaScript Framework is a leaderboard of the top JavaScript Framework providers. Promoting a static approach to building websites.`,
     siteUrl: `https://www.staticwebsitehosting.org/`,
   },
   plugins: [
@@ -104,7 +104,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Static Website Hosting's RSS Feed",
+            title: "JavaScript Framework's RSS Feed",
           },
         ],
       },
@@ -112,8 +112,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Static Website Hosting`,
-        short_name: `Static Website Hosting`,
+        name: `JavaScript Framework`,
+        short_name: `JavaScript Framework`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#2193b0`,

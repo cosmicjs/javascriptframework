@@ -1,17 +1,17 @@
 # staticwebsitehosting
 
-[staticwebsitehosting.org](http://staticwebsitehosting.org), a leaderboard of top static website hosting providers for Jamstack sites.
+[staticwebsitehosting.org](http://staticwebsitehosting.org), a leaderboard of top JavaScript Framework providers for Jamstack sites.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/388637c1-8040-4b2d-84b4-1cfa38cd62bb/deploy-status)](https://app.netlify.com/sites/staticwebsitehosting/deploys)
 
 ## Contributing
 
-Missing a static website hosting provider here? Just fork the repo and add the provider with an `index.md` file in the `content/sites/<name>/` folder.
+Missing a JavaScript Framework provider here? Just fork the repo and add the provider with an `index.md` file in the `content/sites/<name>/` folder.
 
 Make sure to follow the following rules:
 
-- **Static Website Hosting:** No server-side website hosting options. This means it needs to serve static content directly without involving PHP, Ruby, Node.js, Java, etc. The hosting provider must have the option to enable a CDN for optimized global static asset distribution which is one of the benefits of the Jamstack approach.
-- **Stick to the format:** Fill out all the same fields as the other static website hosting providers in `content/sites`.
+- **JavaScript Framework:** No server-side website hosting options. This means it needs to serve static content directly without involving PHP, Ruby, Node.js, Java, etc. The hosting provider must have the option to enable a CDN for optimized global static asset distribution which is one of the benefits of the Jamstack approach.
+- **Stick to the format:** Fill out all the same fields as the other JavaScript Framework providers in `content/sites`.
 - **Short description:** Keep all the details for the body text, keep the description for the overview page short and sweet.
 
 ## Usage

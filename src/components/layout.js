@@ -11,7 +11,7 @@ const Layout = ({ title, children }) => {
         <div className="max-w-screen-xl mx-auto">
           <h1 className="text-6xl font-bold mb-4">
             <Link to={`/`} className="shadow-none">
-              Static Website Hosting
+              JavaScript Framework
             </Link>
           </h1>
           <h2 className="text-xl font-thin">
@@ -82,7 +82,7 @@ const Layout = ({ title, children }) => {
       <footer className="pt-16 pb-10 px-4 text-2xl text-center text-white font-light bg-gray-800">
         <div className="max-w-screen-lg mx-auto">
           <p className="mb-4">
-            Static Website Hosting is maintained by{" "}
+            JavaScript Framework is maintained by{" "}
             <b className="font-bold">
               <a className="shadow-none" href="https://www.cosmicjs.com/">
                 Cosmic

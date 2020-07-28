@@ -1,7 +1,7 @@
 {
   "name": "staticwebsitehosting",
   "private": true,
-  "description": "staticwebsitehosting, a list of static website hosting providers for Jamstack sites.",
+  "description": "staticwebsitehosting, a list of JavaScript Framework providers for Jamstack sites.",
   "version": "1.0.0",
   "author": "@cosmicjs",
   "bugs": {
@@ -46,7 +46,7 @@
   },
   "homepage": "https://github.com/cosmicjs/staticwebsitehosting#readme",
   "keywords": [
-    "static website hosting",
+    "JavaScript Framework",
     "gatsby",
     "cosmic"
   ],

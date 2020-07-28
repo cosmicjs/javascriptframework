@@ -1,7 +1,7 @@
 ---
 title: Netlify
 homepage: https://www.netlify.com
-description: Netlify is a static website hosting provider.
+description: Netlify is a JavaScript Framework provider.
 twitter: netlify
 freeplan: true
 autodeployment: true
