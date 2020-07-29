@@ -5,6 +5,7 @@ description: A framework for ambitious web developers.
 twitter: emberjs
 github: https://github.com/emberjs/ember.js
 cosmicapplink: https://www.cosmicjs.com/apps/real-estate-website
+icon: https://cdn.cosmicjs.com/8d1cd630-6281-11e7-8d46-7b261262b385-Ember.js_Logo_and_Mascot.png
 ---
 
 **Ember.js** is a JavaScript framework that greatly reduces the time, effort and resources needed to build any web application. It is focused on making you, the developer, as productive as possible by doing all the common, repetitive, yet essential, tasks involved in most web development projects.

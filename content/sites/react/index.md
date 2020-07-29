@@ -5,6 +5,7 @@ description: A JavaScript library for building user interfaces
 twitter: reactjs
 github: https://github.com/facebook/react/
 cosmicapplink: https://www.cosmicjs.com/apps/simple-react-blog
+icon: https://cdn.cosmicjs.com/a1e22810-27b0-11e7-b6ae-8108cf4caa96-react.svg
 ---
 
 ## Declarative

@@ -5,6 +5,7 @@ description: The Intuitive Vue Framework
 twitter: nuxtjs
 github: https://github.com/nuxt/nuxt.js
 cosmicapplink: https://www.cosmicjs.com/apps/nuxtjs-website
+icon: https://cdn.cosmicjs.com/2d15d4f0-9300-11ea-838a-0523b52a08cb-nuxt-square.svg
 ---
 
 > Build your next Vue.js application with confidence using Nuxt.js: a framework making web development simple and powerful.

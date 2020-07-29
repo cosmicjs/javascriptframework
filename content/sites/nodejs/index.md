@@ -5,6 +5,7 @@ description: A JavaScript runtime built on Chrome's V8 JavaScript engine.
 twitter: nodejs
 github: https://github.com/nodejs/node
 cosmicapplink: https://www.cosmicjs.com/apps/simple-blog
+icon: https://imgix.cosmicjs.com/759e85a0-27b0-11e7-b6ae-8108cf4caa96-nodejs.svg
 ---
 
 ## About Node.js®

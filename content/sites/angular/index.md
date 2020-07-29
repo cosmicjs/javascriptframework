@@ -5,6 +5,7 @@ description: One framework. Mobile & desktop.
 twitter: angular
 github: https://github.com/angular/angular
 cosmicapplink: https://www.cosmicjs.com/apps/angular-blog
+icon: https://cdn.cosmicjs.com/1a576450-f3e7-11e8-b494-31af6b9cb765-angular.svg
 ---
 
 ## DEVELOP ACROSS ALL PLATFORMS

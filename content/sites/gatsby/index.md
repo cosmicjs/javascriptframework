@@ -5,6 +5,7 @@ description: Gatsby is a free and open source framework based on React
 twitter: gatsbyjs
 github: https://github.com/gatsbyjs/gatsby
 cosmicapplink: https://www.cosmicjs.com/apps/gatsby-blog
+icon: https://cdn.cosmicjs.com/17c79a80-cf72-11ea-a03b-a9b51dcc4b0e-gatsby-cms.svg
 ---
 
 Gatsby is a modern web framework for blazing fast websites.
