@@ -5,7 +5,7 @@ description: The React Framework for Websites and Apps
 twitter: vercel
 github: https://github.com/vercel/next.js
 cosmicapplink: https://www.cosmicjs.com/apps/nextjs-static-blog
-icon: https://cdn.cosmicjs.com/0b0e65e0-dfad-11e9-8580-4df517ea2cd1-nextjs.jpg
+icon: https://cdn.cosmicjs.com/d17ebda0-d1ed-11ea-8a35-957719f61f7e-nextjs.svg
 ---
 
 To build a complete web application with React from scratch, there are many important details you need to consider:
