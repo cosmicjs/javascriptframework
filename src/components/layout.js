@@ -15,7 +15,7 @@ const Layout = ({ title, children }) => {
             </Link>
           </h1>
           <h2 className="text-xl font-thin">
-            A List of JavaScript Frameworks
+            A List of JavaScript Frameworks and Libraries
           </h2>
           <ShareButtons className="mt-12 inline-flex" />
         </div>

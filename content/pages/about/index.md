@@ -4,7 +4,7 @@ title: About JavaScript Framework
 
 ## About JavaScript Framework
 
-JavaScript Framework is a leaderboard of the top JavaScript frameworks. It's run by [Cosmic](https://www.cosmic.com), a headless CMS to power content for any website or app, as a resource for those looking for options for the best JavaScript framework. The site itself is built with [Gatsby](https://www.gatsbyjs.org/), and is built and hosted on [Netlify](https://www.netlify.com/). You can check out the source on [GitHub](https://github.com/cosmicjs/javascriptframework) and contributions are [more than welcome](/contribute)!
+JavaScript Framework is a leaderboard of the top JavaScript frameworks and libraries. It's run by [Cosmic](https://www.cosmic.com), a headless CMS to power content for any website or app, as a resource for those looking for options for the best JavaScript framework. The site itself is built with [Gatsby](https://www.gatsbyjs.org/), and is built and hosted on [Netlify](https://www.netlify.com/). You can check out the source on [GitHub](https://github.com/cosmicjs/javascriptframework) and contributions are [more than welcome](/contribute)!
 
 ### JavaScript frameworks
 
