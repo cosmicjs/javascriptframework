@@ -15,6 +15,7 @@ const BlogPostTemplate = ({ data, location }) => {
   const twitter = site.frontmatter.twitter
   const githubLink = site.frontmatter.github
   const cosmicAppLink = site.frontmatter.cosmicapplink
+  const icon = site.frontmatter.icon || false
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -23,6 +24,13 @@ const BlogPostTemplate = ({ data, location }) => {
         description={site.frontmatter.description || site.excerpt}
       />
       <article>
+        <div class="mb-3">
+          <img
+            src={icon}
+            style={{ height: '50px' }}
+            alt={`${siteTitle} Icon`}
+          />
+        </div>
         <h2 className="text-3xl font-black mb-4">{site.frontmatter.title}</h2>
         <div className="inline-flex">
           <a
@@ -100,6 +108,7 @@ export const pageQuery = graphql`
         twitter
         cosmicapplink
         github
+        icon
       }
     }
   }
