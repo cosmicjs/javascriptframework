@@ -5,7 +5,7 @@ title: Contributing
 ## Contributing
 
 Everybody is welcome to contribute to JavaScript Framework, just fork the [GitHub repo](https://github.com/cosmicjs/javascriptframework) and send a pull request.
-Each static site generator is a `index.md` markdown file in the `content/sites/<name>/` directory.
+Each JavaScript framework is a `index.md` markdown file in the `content/sites/<name>/` directory.
 
 Make sure to follow the following rules:
 
