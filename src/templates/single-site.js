@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import { faHome, faDollarSign } from "@fortawesome/free-solid-svg-icons"
+import { faHome } from "@fortawesome/free-solid-svg-icons"
 import { faTwitter, faGithub } from "@fortawesome/free-brands-svg-icons"
 
 import CosmicIcon from "../cosmic-icon.svg"
