@@ -3,8 +3,8 @@ body {
 }
 .bg-gradient-brand {
   background: #2193b0;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #6dd5ed, #2193b0);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(182.33deg,#000758 -17.71%,#109b9b 108.58%);
+  background: linear-gradient(182.33deg,#000758 -17.71%,#109b9b 108.58%);
 }
 .markdown > h2 {
   @apply text-3xl font-black mb-8;
