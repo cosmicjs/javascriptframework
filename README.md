@@ -2,7 +2,7 @@
 
 [javascriptframework.org](http://javascriptframework.org), a leaderboard of top JavaScript frameworks.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/388637c1-8040-4b2d-84b4-1cfa38cd62bb/deploy-status)](https://app.netlify.com/sites/javascriptframework/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/388637c1-8040-4b2d-84b4-1cfa38cd62bb/deploy-status)](https://app.netlify.com/sites/javascript-framework/deploys)
 
 ## Contributing
 
