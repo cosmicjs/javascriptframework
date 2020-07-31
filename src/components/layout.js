@@ -9,7 +9,7 @@ const Layout = ({ title, children }) => {
     <div>
       <header className="pt-24 pb-12 px-4 text-center text-white bg-gradient-brand">
         <div className="max-w-screen-xl mx-auto">
-          <h1 className="text-6xl font-bold mb-4">
+          <h1 className="text-5xl font-bold mb-4">
             <Link to={`/`} className="shadow-none">
               JavaScript Framework
             </Link>
